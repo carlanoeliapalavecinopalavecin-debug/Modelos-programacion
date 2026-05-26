@@ -1,0 +1,14 @@
+C:\Users\Noelia\Desktop\SistemaBiblioteca\bin\Debug\net9.0\SistemaBiblioteca.exe
+C:\Users\Noelia\Desktop\SistemaBiblioteca\bin\Debug\net9.0\SistemaBiblioteca.deps.json
+C:\Users\Noelia\Desktop\SistemaBiblioteca\bin\Debug\net9.0\SistemaBiblioteca.runtimeconfig.json
+C:\Users\Noelia\Desktop\SistemaBiblioteca\bin\Debug\net9.0\SistemaBiblioteca.dll
+C:\Users\Noelia\Desktop\SistemaBiblioteca\bin\Debug\net9.0\SistemaBiblioteca.pdb
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.AssemblyInfo.cs
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.dll
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\refint\SistemaBiblioteca.dll
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.pdb
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.genruntimeconfig.cache
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\ref\SistemaBiblioteca.dll
