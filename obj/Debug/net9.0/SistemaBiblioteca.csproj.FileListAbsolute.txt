@@ -12,3 +12,4 @@ C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\refint\SistemaBibliot
 C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.pdb
 C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.genruntimeconfig.cache
 C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\ref\SistemaBiblioteca.dll
+C:\Users\Noelia\Desktop\SistemaBiblioteca\obj\Debug\net9.0\SistemaBiblioteca.sourcelink.json
